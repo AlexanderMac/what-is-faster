@@ -1,0 +1,24 @@
+{
+  "name": "what-is-faster",
+  "version": "0.0.1",
+  "description": "JS benchmarks",
+  "private": true,
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexanderMac/what-is-faster.git"
+  },
+  "keywords": [
+    "benchmark",
+    "benchmarks"
+  ],
+  "author": "Alexander Mac",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlexanderMac/what-is-faster/issues"
+  },
+  "homepage": "https://github.com/AlexanderMac/what-is-faster#readme",
+  "dependencies": {},
+  "devDependencies": {}
+}
