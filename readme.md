@@ -1,7 +1,7 @@
-# What is faster
+# JS benchmarks
 JS benchmarks
 
-[![Build Status](https://travis-ci.org/AlexanderMac/what-is-faster.svg?branch=master)](https://travis-ci.org/AlexanderMac/what-is-faster)
+[![Build Status](https://travis-ci.org/AlexanderMac/js-benchmarks.svg?branch=master)](https://travis-ci.org/AlexanderMac/js-benchmarks)
 
 ### Features
 TODO
