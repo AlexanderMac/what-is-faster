@@ -1,16 +1,24 @@
-# JS benchmarks
+# What is faster
 JS benchmarks
 
-[![Build Status](https://travis-ci.org/AlexanderMac/js-benchmarks.svg?branch=master)](https://travis-ci.org/AlexanderMac/js-benchmarks)
+[![Build Status](https://travis-ci.org/AlexanderMac/what-is-faster.svg?branch=master)](https://travis-ci.org/AlexanderMac/what-is-faster)
 
 ### Features
-TODO
-
-### Commands
-TODO
+- Interactive commander for selecting running suite.
+- Detailed, colored, friendly benchmarks result.
+- Simple API for creating own benchmarks suites.
 
 ### Usage
-TODO
+```sh
+# Clone this repo:
+`git clone https://github.com/AlexanderMac/what-is-faster.git`
+
+# Install dependencies:
+`npm i`
+
+# Start app:
+`npm start`
+```
 
 ### API
 TODO
