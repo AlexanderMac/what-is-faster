@@ -1,5 +1,5 @@
 before_script:
-  # - npm install -g gulp
+ - npm install -g jshint
 
 language: node_js
 node_js:
