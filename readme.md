@@ -3,7 +3,7 @@ JS benchmarks
 
 [![Build Status](https://travis-ci.org/AlexanderMac/what-is-faster.svg?branch=master)](https://travis-ci.org/AlexanderMac/what-is-faster)
 
-[[https://github.com/AlexanderMac/what-is-faster/blob/master/images/demo.png|alt=demo]]
+![demo](https://github.com/AlexanderMac/what-is-faster/blob/master/images/demo.png)
 
 ### Features
 - Interactive commander for selecting running suite.
