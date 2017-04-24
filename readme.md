@@ -13,13 +13,13 @@ JS benchmarks
 ### Usage
 ```sh
 # Clone this repo:
-`git clone https://github.com/AlexanderMac/what-is-faster.git`
+git clone https://github.com/AlexanderMac/what-is-faster.git
 
 # Install dependencies:
-`npm i`
+npm i
 
 # Start app:
-`npm start`
+npm start
 ```
 
 ### API
