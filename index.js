@@ -1,5 +1,5 @@
 'use strict';
 
-const program = require('./lib/program');
+let program = require('./lib/program');
 
 program.run();
